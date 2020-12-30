@@ -13,6 +13,10 @@ public void clientName1() {
 	System.out.println("Added success");
 }
 
+public void clientName3() {
+	System.out.println("Hari friend");
+}
+
 public static void main(String[] args) {
 	Client c = new Client();
 	c.clientId();
